@@ -1,1 +1,1 @@
-# Chain-of-Trust-for-SSL-Certificates-
+# Chain of Trust for SSL Certificates
